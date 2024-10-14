@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study How Quick Decisions Illuminate Moral Character by Clayton R. Critcher, Yoel Inbar and David A. Pizarro (2013, Social Psychological and Personality Science)"
+author: "Erika Garza-Elorduy (egarzaelorduy@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -8,12 +8,15 @@ format:
     toc_depth: 3
 ---
 
-<!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
-
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+The study by Critcher et al. (2013) explores how the speed of decision-making influences how we perceive others’ moral character. The findings suggest that quick decisions may signal a stronger sense of certainty, making someone seem either more moral or immoral in people’s eyes. This experiment caught my attention because it examines the various factors people, whether consciously or unconsciously, consider when forming judgments about others. It’s fascinating to consider that we often judge people not just for what they do, but how quickly they do it. Replicating this study could help explore whether the connection between decision speed and moral judgments holds true across different contexts, offering new perspectives on how moral evaluations are formed.
 
+To conduct this replication experiment, participants will be presented with scenarios similar to those used in the original study. For example, they will read about two individuals who face a moral dilemma, such as finding a wallet filled with money, and must decide whether to return it or keep it. As in the original study, the key manipulation involves the speed of their decision-making: one individual will make the decision quickly, while the other will take longer to decide. The participants will then rate the moral character of each individual based on the perceived morality of their actions and the decision speed. The study will also include manipulation checks, asking participants how certain they believe each decision-maker was, to ensure that decision speed correlates with perceived certainty.
+
+[GitHub Repository](https://github.com/e-garzaelorduy/critcher_2013.git)
+
+[Original Paper](https://github.com/e-garzaelorduy/critcher_2013/blob/main/original_paper.pdf)
 
 ## Methods
 
