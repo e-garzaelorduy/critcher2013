@@ -14,9 +14,9 @@ The study by Critcher et al. (2013) explores how the speed of decision-making in
 
 To conduct this replication experiment, participants will be presented with scenarios similar to those used in the original study. For example, they will read about two individuals who face a moral dilemma, such as finding a wallet filled with money, and must decide whether to return it or keep it. As in the original study, the key manipulation involves the speed of their decision-making: one individual will make the decision quickly, while the other will take longer to decide. The participants will then rate the moral character of each individual based on the perceived morality of their actions and the decision speed. The study will also include manipulation checks, asking participants how certain they believe each decision-maker was, to ensure that decision speed correlates with perceived certainty.
 
-[GitHub Repository](https://github.com/e-garzaelorduy/critcher_2013.git)
+[GitHub Repository](https://github.com/e-garzaelorduy/critcher2013.git)
 
-[Original Paper](https://github.com/e-garzaelorduy/critcher_2013/blob/main/original_paper.pdf)
+[Original Paper](https://github.com/e-garzaelorduy/critcher2013/blob/main/original_paper.pdf)
 
 ## Methods
 
